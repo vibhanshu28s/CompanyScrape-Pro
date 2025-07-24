@@ -24,3 +24,4 @@ CompanyScrape Pro is an advanced Python-based web scraping utility engineered to
 Manual efforts to gather business information are slow and subject to human error, especially as data changes frequently across countless websites. CompanyScrape Pro dramatically increases efficiency and accuracy, empowering professionals in research, marketing, compliance, and business development to access real-time company data at scale.
 
 **Note:** Always ensure the tool is used in accordance with all relevant data privacy regulations and website terms of service.
+          Use fortune1000_2024.csv as input file.
