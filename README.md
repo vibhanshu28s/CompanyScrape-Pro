@@ -25,4 +25,4 @@ Manual efforts to gather business information are slow and subject to human erro
 
 **Note:** Always ensure the tool is used in accordance with all relevant data privacy regulations and website terms of service.
           
-          **Use fortune1000_2024.csv as input file.**
+**Use fortune1000_2024.csv as input file.**
